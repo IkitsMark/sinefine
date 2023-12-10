@@ -1,0 +1,8 @@
+csinálj egy notes gombot ami betölti a noteokat(arr)
+employee/:id/notes
+make notes submit
+$push
+
+Add estate -> frontend és backend megírása -> County, barony, kingdom lefetchelése és ID-jének hozzáadása az adatbázishoz
+
+Listázzam ki query/parameter szerint az adott királyság grófságait.
