@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SineFine_BackEnd", "SineFine_BackEnd\SineFine_BackEnd.csproj", "{473C7971-63CB-47AC-BB28-B9E8FC6FC155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SineFine_UnitTest", "SineFine_UnitTest\SineFine_UnitTest.csproj", "{B8F0EAEA-2C3E-4548-8711-210ACC0ABDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SineFine_IntegrationTest", "SineFine_IntegrationTest\SineFine_IntegrationTest.csproj", "{42FAAAE7-7261-4F21-AC65-EFAE18A9D635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473C7971-63CB-47AC-BB28-B9E8FC6FC155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473C7971-63CB-47AC-BB28-B9E8FC6FC155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473C7971-63CB-47AC-BB28-B9E8FC6FC155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473C7971-63CB-47AC-BB28-B9E8FC6FC155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F0EAEA-2C3E-4548-8711-210ACC0ABDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F0EAEA-2C3E-4548-8711-210ACC0ABDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F0EAEA-2C3E-4548-8711-210ACC0ABDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F0EAEA-2C3E-4548-8711-210ACC0ABDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FAAAE7-7261-4F21-AC65-EFAE18A9D635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FAAAE7-7261-4F21-AC65-EFAE18A9D635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FAAAE7-7261-4F21-AC65-EFAE18A9D635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FAAAE7-7261-4F21-AC65-EFAE18A9D635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
