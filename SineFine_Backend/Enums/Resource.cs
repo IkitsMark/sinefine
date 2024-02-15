@@ -2,7 +2,6 @@
 
 namespace SineFine_BackEnd.Enums;
 
-public enum ResourceName
+public enum Resource
 {
-    
 }
